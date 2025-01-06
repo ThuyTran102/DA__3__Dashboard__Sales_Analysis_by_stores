@@ -1,5 +1,5 @@
 # Sales Analysis by Stores Dashboard
-### Store Sales Performance and New Store Analysis
+### Store Sales Performance and New Store Analysis using Power BIBI
 
 ## Table of Contents:
 - [Project Objectives](https://github.com/ThuyTran102/Sales_Analysis_by_Stores_Dashboard_PowerBI?tab=readme-ov-file#project-objectives)
