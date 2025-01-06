@@ -11,7 +11,7 @@
 - [Recommendations](https://github.com/ThuyTran102/Sales_Analysis_by_Stores_Dashboard_PowerBI?tab=readme-ov-file#recommendations)
 
 
-## Project Objectives
+## Project Objectives:
 The primary goal of this project is to analyze store sales performance and evaluate the impact of new stores on overall sales. Key objectives include:
 - Identifying trends in sales variance and performance across districts.
 - Assessing the contribution of new stores to total sales.
@@ -56,14 +56,14 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 |![dashboard1](https://github.com/ThuyTran102/Sales_Analysis_by_Stores_Dashboard_PowerBI/blob/main/images/3c_Store%20Sales%20Performance%20and%20New%20Store%20Analysis%20(Power%20BI).png)|
 
 
-## Insights
-#### **Store Sales Overview**
+## Insights:
+#### **Store Sales Overview** dashboard:
 - **Sales Distribution**: Fashions Direct contributes 71% of total sales, while Lindseys accounts for 29%.
 - **New Stores**: A total of 10 new stores opened, with noticeable contributions in specific regions.
 - **Sales Variance by District Managers**:
   - Sales performance varies significantly across months and managers, with March showing the highest positive variance and July/August experiencing declines.
 
-#### **District Monthly Sales**
+#### **District Monthly Sales** dashboard:
 - **Performance Trends**:
   - Monthly sales peaked in March, with a significant dip in April and stable performance thereafter.
   - New stores underperform slightly in terms of sales per square foot compared to established stores.
@@ -72,7 +72,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 - **Sales Variance**:
   - Positive variance in Q1 suggests successful promotions or seasonality, while later months show challenges in maintaining growth.
 
-#### **New Stores Analysis**
+#### **New Stores Analysis** dashboard:
 - **Geographical Contribution**:
   - New stores are clustered in specific states like Ohio and Virginia, with a focus on urban and suburban areas.
 - **Sales Efficiency**:
@@ -82,7 +82,7 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 
 
 
-## Recommendations
+## Recommendations:
 1. **Boost Underperforming Districts**:
    - Focus on training and targeted marketing for managers with consistent negative variances.
    - Review product assortments and customer preferences in these districts.
